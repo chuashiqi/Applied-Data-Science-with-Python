@@ -1,2 +1,2 @@
 # Applied-Data-Science-with-Python
-Coursera
+Coursera, University of Michigan
